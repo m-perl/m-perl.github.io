@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2161146d.css",
-    "main.js": "/static/js/main.21b82fd6.js",
-    "static/js/787.50340ea4.chunk.js": "/static/js/787.50340ea4.chunk.js",
-    "index.html": "/index.html",
-    "main.2161146d.css.map": "/static/css/main.2161146d.css.map",
-    "main.21b82fd6.js.map": "/static/js/main.21b82fd6.js.map",
-    "787.50340ea4.chunk.js.map": "/static/js/787.50340ea4.chunk.js.map"
+    "main.css": "/m-perl.github.io/static/css/main.2161146d.css",
+    "main.js": "/m-perl.github.io/static/js/main.ffb7d772.js",
+    "static/js/787.50340ea4.chunk.js": "/m-perl.github.io/static/js/787.50340ea4.chunk.js",
+    "index.html": "/m-perl.github.io/index.html",
+    "main.2161146d.css.map": "/m-perl.github.io/static/css/main.2161146d.css.map",
+    "main.ffb7d772.js.map": "/m-perl.github.io/static/js/main.ffb7d772.js.map",
+    "787.50340ea4.chunk.js.map": "/m-perl.github.io/static/js/787.50340ea4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2161146d.css",
-    "static/js/main.21b82fd6.js"
+    "static/js/main.ffb7d772.js"
   ]
 }
